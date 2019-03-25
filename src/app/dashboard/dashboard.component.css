@@ -1,0 +1,31 @@
+
+
+
+
+.guages{
+	width: 80%;
+	height:90%;
+	padding-bottom: 1%
+}
+
+.sentence{
+    padding-top: 1%;
+	width: 50%;	
+}
+
+circle-progress{
+  
+	width:25%;
+	height:80%;
+}
+
+.btnSentence p{
+
+	display: inline-block;
+    margin:0;
+}
+
+.dash{
+	margin:0;
+	vertical-align: bottom;
+	padding-top: 1%}
